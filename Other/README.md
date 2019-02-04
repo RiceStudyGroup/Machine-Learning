@@ -16,7 +16,15 @@ https://medium.com/@mlengineer/generative-and-discriminative-models-af5637a66a3
 ![](https://ws3.sinaimg.cn/large/006tNc79ly1fzsqoau3r7j3112024aav.jpg)
 
 
+## 2. how to deal with unbalanced dataset?
 
+## 3. your machine work flow?
+
+## 4. how to decide which model to choose?
+
+<img src="https://mk0caiblog1h3pefaf7c.kinstacdn.com/wp-content/uploads/2017/02/tableml-1.png" width="550px"/>
+
+https://cai.tools.sap/blog/machine-learning-algorithms/2/
 
 
 
